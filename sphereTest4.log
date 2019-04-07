@@ -1,0 +1,37 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  /Users/canvasgadget/Desktop/testFiles/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  joint1, index:  0
+		processing begun of bone:  joint2, index:  1
+		processing begun of bone:  joint3, index:  2
+	processing begun of mesh:  pSphere3
+		processing begun of Standard material:  subMesh_2
+		processing begun of Standard material:  subMesh_1
+		processing begun of multimaterial:  sphereTest4.Multimaterial#0
+		num positions      :  952
+		num normals        :  952
+		num uvs            :  1904
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4560
+		Skeleton stats:  
+			Total Influencers:  952
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  952
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3808
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1663 secs
