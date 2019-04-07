@@ -1,7 +1,7 @@
 {"producer":{"name":"Blender","version":"2.79 (sub 0)","exporter_version":"5.6.4","file":"sphereTest.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
-"materials":[{"name":"subMesh_2","id":"subMesh_2","customType":"BABYLON.PBRMaterial","alpha":1,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"albedoColor":[0,0,0],"indexOfRefraction":1,"directIntensity":0,"reflectivity":[0,0,0],"microSurface":0,"backFaceCulling":true,"isGlass":false,"reflection":[0,0,0]},
-{"name":"subMesh_1","id":"subMesh_1","customType":"BABYLON.PBRMaterial","alpha":1,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"albedoColor":[0,0,0],"indexOfRefraction":1,"directIntensity":0,"reflectivity":[0,0,0],"microSurface":0,"backFaceCulling":true,"isGlass":false,"reflection":[0,0,0]}],
+"materials":[{"name":"subMesh_2","id":"subMesh_2","customType":"BABYLON.PBRMaterial","alpha":1,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"albedoColor":[1,1,1],"indexOfRefraction":1,"directIntensity":0,"reflectivity":[0,0,0],"microSurface":0,"backFaceCulling":true,"isGlass":false,"reflection":[0,0,0]},
+{"name":"subMesh_1","id":"subMesh_1","customType":"BABYLON.PBRMaterial","alpha":1,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4,"albedoColor":[1,1,1],"indexOfRefraction":1,"directIntensity":0,"reflectivity":[0,0,0],"microSurface":0,"backFaceCulling":true,"isGlass":false,"reflection":[0,0,0]}],
 "multiMaterials":[{"name":"sphereTest.Multimaterial#0","id":"sphereTest.Multimaterial#0","materials":["subMesh_2","subMesh_1"]}],
 "skeletons":[{"name":"Armature","id":0,"dimensionsAtRest":[0,3,1.5],"bones":[
 {"name":"joint1","index":0,"matrix":[0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1],"rest":[0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1],"parentBoneIndex":-1,"length":1.5
